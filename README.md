@@ -1,5 +1,5 @@
-# Firebase: Build a Real Time Web Chat App Codelab - Start code
+# FriendlyChat: A Real Time Web Chat App Built with Firebase
 
-This folder contains the starting code for the [Firebase: Build a Real Time Web Chat App Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).
+FriendlyChat is a real time web chat app built on top of Google Firebase. Built alongside of Google's Codelab for Firebase 3.0.
 
-If you'd like to jump directly to the end and see the finished code head to the [web](../web) directory.
+For a live demo of the app, see https://friendlychat-615df.firebaseapp.com/
